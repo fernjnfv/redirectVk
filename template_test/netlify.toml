@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/vk"
+  to = "https://user217092999-uvo6ootn.tunnel.vk-apps.com/"
+  status = 302
+  force = true
