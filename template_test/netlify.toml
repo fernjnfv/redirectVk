@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/vk"
-  to = "https://oauth.vk.ru/code_auth?stage=check&code=c35b170"
+  to = "https://oauth.vk.ru/code_auth?stage=check&code=9d75b11"
   status = 302
   force = true
