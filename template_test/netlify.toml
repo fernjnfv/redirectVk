@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/vk"
-  to = "https://vk.com/',"
+  to = "https://vk.com/\r\n'"
   status = 302
   force = true
