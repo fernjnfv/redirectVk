@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/vk"
-  to = "https://api.vk.ru/method/apps.getTunnelToken?access_token=vk1.a.jolx9JEL_gUBBjsdOtjOY7FDXs3H8UUQugLswIFAQYmgkYtfxp2ylBMSxq_SjROXrv2L-X3JqdiFPl9G8heM8xYkXs72QEnaLOWtsrnKveN_DhLPROdcVTwqkblbXHNBEs8zKZ5_LpI4AyHe4C0-i2Y4WxrP8wbSzbshUZWGUiiYNuNAXpxk-6baa4xQw3VQFjO1LObpnivTJf6hvagqZQ&version=1&v=5.199',"
+  to = "https://user217092999-7fhrderk.tunnel.vk-apps.com/"
   status = 302
   force = true
